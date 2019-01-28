@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Q4_android</string>
+    <string-array name="my_itens">
+        <item>Chapinha</item>
+        <item>Secador</item>
+        <item>Finalizador</item>
+        <item>Máscara</item>
+        <item>Protetor</item>
+    </string-array>
+</resources>
